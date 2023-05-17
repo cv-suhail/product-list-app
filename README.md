@@ -4,7 +4,8 @@ Product List Application (MACHINE TEST) :
 
   * [React JS](https://reactjs.org/)^17.0.2
   * [Material-UI](https://mui.com/) ^5.2.8
-  * [eyet API](http://apitextile.eyeterp.com/)
+  * [eyet API - not working now (Bad Gateway 502)](http://apitextile.eyeterp.com/)
+  * [fakeStoreApi](https://fakestoreapi.com/)
 
 ## Installation
 
