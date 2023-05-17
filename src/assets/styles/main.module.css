@@ -1,0 +1,10 @@
+.main_section {
+  padding: 20px 40px;
+}
+
+.container {
+  padding: 30px;
+  transform: translateY(-100px);
+  background-color: #fff;
+  border-radius: 20px;
+}

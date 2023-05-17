@@ -1,0 +1,7 @@
+.header{
+    width: 100%;
+    padding: calc(40px / 2) 40px;
+    background-color: #1438487a;
+    min-height: 200px;
+    border-radius: 0 0 10px 10px;
+}
